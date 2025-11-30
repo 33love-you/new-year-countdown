@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of New Year Particle Countdown",
+  "description": "A 3D interactive particle system controlled by hand gestures using Gemini Live API. Starts with a Christmas tree, counts down, and wishes a Happy New Year.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
